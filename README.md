@@ -43,13 +43,13 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 3) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
 
-4) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+4) As a student who wants to snack, I want access to food-friendly spaces so that I can stay energized while studying.
 
-5) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+5) As a student who has a disability, I want accessible facilities so that I can comfortably and independently participate in academic life.
 
-6) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+6) As a student who needs to charge my laptop, I want sufficient charging stations so that I can continue working without interruption.
 
-7) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+7) As a student who has a big workload, I want quiet and supportive study environments so that I can focus and manage my tasks efficiently.
 
 8) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
 
