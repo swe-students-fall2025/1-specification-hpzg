@@ -37,11 +37,11 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 ## User Requirements
 
-1) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+1) As a freshman student, I want to quickly find study spaces on campus so that I can adjust to university life and establish effective study habits in my new environment.
 
-2) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+2) As a student with long breaks between classes, I want to see which study spots are currently available so that I can use my downtime productively without wasting time searching for space.
 
-3) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+3) As a study-abroad student new to this campus, I want to explore and compare how crowded different study spaces are so that I can easily discover good places to study without prior local knowledge.
 
 4) As a student who wants to snack, I want access to food-friendly spaces so that I can stay energized while studying.
 
