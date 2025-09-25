@@ -64,7 +64,10 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Crowd Report Submission](CrowdReportSubmission.png)
+
+![Study Space Selection](StudySpaceSelection.png)
+
 
 ## Clickable Prototype
 
