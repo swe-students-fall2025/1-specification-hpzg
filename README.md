@@ -51,7 +51,7 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 7) As a student who has a big workload, I want quiet and supportive study environments so that I can focus and manage my tasks efficiently.
 
-8) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
+8) As a student who wants to help others find space, I want to submit a quick crowd report (with optional details/photo) so that the app shows up-to-date conditions for everyone.
 
 9) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
 
@@ -64,7 +64,11 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 ## Activity Diagrams
 
+### User Story 8: As a student who wants to help others find space, I want to submit a quick crowd report (with optional details/photo) so that the app shows up-to-date conditions for everyone.
+
 ![Crowd Report Submission](CrowdReportSubmission.png)
+
+### User Story 2: As a student with long breaks between classes, I want to see which study spots are currently available so that I can use my downtime productively without wasting time searching for space.
 
 ![Study Space Selection](StudySpaceSelection.png)
 
