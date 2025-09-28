@@ -11,7 +11,27 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Name: Arpita D
+Grade: Freshman (Undergraduate)
+Residence: Third North (on-campus, not a commuter)
+
+
+
+## Summary of Goals, Needs, and Challenges:
+Arpita, a freshman living in Third North, studies on campus about three days a week
+Top study locations include: Bobst Library (lower level floords), Kimmel lounges, and Third North common areas.
+
+Main challenge is the unpredictability of study space availability. She stated she often wasted time walking to places like Bobst or Kimmel only to find them overcrowded, particularly during peak class hours (11am-4pm). On one occasion, she spent over 20ish minutes trying to find a seat in Bobst but was unsuccessful. This cuts into her productive time between classes.
+
+Expressed a strong interest in using an app that provides real-time updates on study space accessibility and crowd levels, saying it would help her plan her day more efficiently so she can go to the right buildings at the right time. Also mentioned that information on available charging outlets would be valuable, since her laptop often runs out of battery during long study sessions (P2 use case).
+
+
+## Takeaways:
+1) Needs real-time crowd level updates to avoid wasted time.
+2) Wants study spot details (e.g., quiet vs. group spaces, outlet availability).
+3) Would actively use an app to improve her campus study experience.
+
+<!-- See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 //freshman
 
@@ -32,7 +52,7 @@ questions:
 
 *If you have the option to, would you use an APP to check the accesbility of a study space on campus?
 
-*Any additional information to add
+*Any additional information to add -->
 
 
 ## Product Vision Statement
@@ -55,9 +75,6 @@ questions:
 7) As a student who has a big workload, I want quiet and supportive study environments so that I can focus and manage my tasks efficiently.
 
 8) As a student who wants to help others find space, I want to submit a quick crowd report (with optional details/photo) so that the app shows up-to-date conditions for everyone.
-
-
-
 
 
 ## Activity Diagrams
@@ -111,6 +128,7 @@ questions:
 Sept 22nd Interview/User story uploaded
 Sept 24th UML Diagram(Pran)
 Sept 26th WireFrame Diagram 
+Sept 28Th Presentation Slides and Rehearsal
 
 We aim to get everything by Saturday night. 
 And we loosely say Sunday evening to rehearse presentation. 
