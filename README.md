@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Ganling Zhou](https://github.com/GanlingZ)
+[Harrison]()
+[Pran]()
+[Zeba Shafi](https://github.com/Zeba-Shafi)
 
 ## Stakeholders
 
@@ -33,7 +36,7 @@ questions:
 
 
 ## Product Vision Statement
-Our goal is to aide NYU students to have a reference on how accessible a study space is in real time based on student reports. 
+**StudyScape** is an app whose goal is to aide NYU students to have a reference on how accessible a study space is in real time based on student reports. 
 
 ## User Requirements
 
@@ -53,11 +56,6 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 8) As a student who wants to help others find space, I want to submit a quick crowd report (with optional details/photo) so that the app shows up-to-date conditions for everyone.
 
-9) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
-
-10) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
-
-11) As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]`
 
 
 
@@ -75,12 +73,38 @@ Our goal is to aide NYU students to have a reference on how accessible a study s
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+![StudyScape Prototype](https://www.figma.com/proto/9zv31QvVINJVwMuIpuBxz4/HPZG?node-id=0-1&t=LqWDAaymUq6Jm2M2-1)
 
-Diagram Pages:
-//login(SSL ONLY?? because only NYU locations for now)
-//(filter on top for [library][dorm]...) list(kimmel, bobst...)-sub list(1st floor lounge, 3rd floor reading room...)
-//rating how crowed a room is(accurate address. rating the tape. viewing the rank. )
+## Diagram Pages:
+
+#### Screens
+
+- ![Login](wireframe_images/Login.png)
+
+- ![Dashboard](wireframe_images/Dashboard.png)
+
+- ![Search Results](wireframe_images/Search%20Results.jpg)
+
+- ![Review A Location Results](wireframe_images/Review%20A%20Location%20Results.png)
+
+- ![Review Page](wireframe_images/Review%20Page.jpg)
+
+- ![Study Location Page](wireframe_images/Study%20Location%20Page.jpg)
+
+- ![Review Form](wireframe_images/Review%20Form.png)
+
+#### Overlays
+
+- ![Go To Location Confirmation](wireframe_images/Go%20To%20Location%20Confirmation.png)
+
+- ![Location Review Select Confirmation](wireframe_images/Location%20Review%20Select%20Confirmation.png)
+
+- ![Publish Review Confirmation](wireframe_images/Publish%20Review%20Confirmation.png)
+
+- ![Published Notification](wireframe_images/Published%20Notification.png)
+
+- ![Review Expand](wireframe_images/Review%20Expand.png)
+
 
 ----------------------------------------------------------------
 ## TIMELINE(Sept 22nd means Sept 22nd 11:59pm EST, etc)
