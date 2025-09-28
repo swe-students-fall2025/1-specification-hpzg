@@ -15,9 +15,7 @@ Name: Arpita D
 Grade: Freshman (Undergraduate)
 Residence: Third North (on-campus, not a commuter)
 
-
-
-## Summary of Goals, Needs, and Challenges:
+### Summary of Goals, Needs, and Challenges:
 Arpita, a freshman living in Third North, studies on campus about three days a week
 Top study locations include: Bobst Library (lower level floords), Kimmel lounges, and Third North common areas.
 
@@ -25,8 +23,7 @@ Main challenge is the unpredictability of study space availability. She stated s
 
 Expressed a strong interest in using an app that provides real-time updates on study space accessibility and crowd levels, saying it would help her plan her day more efficiently so she can go to the right buildings at the right time. Also mentioned that information on available charging outlets would be valuable, since her laptop often runs out of battery during long study sessions (P2 use case).
 
-
-## Takeaways:
+### Takeaways:
 1) Needs real-time crowd level updates to avoid wasted time.
 2) Wants study spot details (e.g., quiet vs. group spaces, outlet availability).
 3) Would actively use an app to improve her campus study experience.
@@ -56,6 +53,7 @@ questions:
 
 
 ## Product Vision Statement
+
 **StudyScape** is an app whose goal is to aide NYU students to have a reference on how accessible a study space is in real time based on student reports. 
 
 ## User Requirements
@@ -121,7 +119,6 @@ questions:
 - ![Published Notification](wireframe_images/Published%20Notification.png)
 
 - ![Review Expand](wireframe_images/Review%20Expand.png)
-
 
 ----------------------------------------------------------------
 ## TIMELINE(Sept 22nd means Sept 22nd 11:59pm EST, etc)
