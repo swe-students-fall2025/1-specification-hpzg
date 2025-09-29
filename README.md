@@ -74,6 +74,12 @@ questions:
 
 8) As a student who wants to help others find space, I want to submit a quick crowd report (with optional details/photo) so that the app shows up-to-date conditions for everyone.
 
+9) As a student who want to coordinate collaboration spaces for my group projects, I want to to find spcaes that aren't crowded so we can easily work together.
+
+10) As a student who is hyper sensitive to loud environments, I want to find a location to study where I wont have to wory about being over stimulated.
+  
+11) As a student who knows a lot of good study spaces on campus, I want to let others know where the best location are to get their work done.
+
 
 ## Activity Diagrams
 
