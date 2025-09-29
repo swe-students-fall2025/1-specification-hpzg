@@ -5,8 +5,8 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Ganling Zhou](https://github.com/GanlingZ)
-[Harrison]()
-[Pran]()
+[Harrison](https://github.com/PranathiChin)
+[Pranathi Chinthalapani]()
 [Zeba Shafi](https://github.com/Zeba-Shafi)
 
 ## Stakeholders
