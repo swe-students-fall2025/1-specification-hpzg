@@ -94,7 +94,7 @@ questions:
 
 ## Clickable Prototype
 
-![StudyScape Prototype](https://www.figma.com/proto/9zv31QvVINJVwMuIpuBxz4/HPZG---StudyScape?page-id=0%3A1&node-id=18-572&p=f&viewport=83%2C-1469%2C1&t=UOgXNYOXuBzRd06E-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A572)
+[StudyScape Prototype](https://www.figma.com/proto/9zv31QvVINJVwMuIpuBxz4/HPZG---StudyScape?page-id=0%3A1&node-id=18-572&p=f&viewport=83%2C-1469%2C1&t=UOgXNYOXuBzRd06E-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A572)
 
 ## Diagram Pages:
 
